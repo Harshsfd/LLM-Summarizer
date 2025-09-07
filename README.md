@@ -15,7 +15,11 @@ It uses the **facebook/bart-large-cnn** model to generate concise summaries of l
 
 ## 📂 Project Structure
 
-LLM-Summarizer/ │── summarizer.py     # Main script │── input.txt         # (Optional) Input file for text │── README.md         # Project documentation
+LLM-Summarizer/
+│── summarizer.py       # Main Python script (summarizer logic)
+│── input.txt           # Example input text file (optional)
+│── requirements.txt    # All dependencies (torch, transformers, etc.)
+│── README.md           # Project documentation
 
 ---
 
