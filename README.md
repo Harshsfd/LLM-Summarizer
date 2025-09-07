@@ -18,7 +18,7 @@ It uses the **facebook/bart-large-cnn** model to generate concise summaries of l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LLM-Summarizer.git
+   git clone https://github.com/harshsfd/LLM-Summarizer.git
    cd LLM-Summarizer
 
 2. Create and activate a virtual environment:
