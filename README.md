@@ -19,24 +19,20 @@ It uses the **facebook/bart-large-cnn** model to generate concise summaries of l
    ```bash
    git clone https://github.com/harshsfd/LLM-Summarizer.git
    cd LLM-Summarizer
-
 2. Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
 
-
 3. Install dependencies:
    ```bash
    pip install --upgrade pip
    pip install torch transformers sentencepiece
 
-
 4. Run the script:
    ```bash
    python3 summarizer.py
-
 
 ---
 
