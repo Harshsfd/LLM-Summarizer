@@ -13,7 +13,6 @@ It uses the **facebook/bart-large-cnn** model to generate concise summaries of l
 
 ---
 
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
@@ -51,7 +50,6 @@ To summarize your own text, replace the text variable in summarizer.py, or load 
 
 with open("input.txt", "r") as f:
     text = f.read()
-
 
 
 ---
