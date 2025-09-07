@@ -1,6 +1,3 @@
-Got it ✅
-Here’s a clean README.md file code you can directly put in your GitHub repo:
-
 # 📝 LLM Text Summarizer
 
 This project is a simple **Text Summarization Tool** built with Python and Hugging Face Transformers.  
@@ -98,6 +95,3 @@ PyTorch
 This project is licensed under the MIT License.
 
 ---
-
-👉 Do you want me to also **generate the `input.txt` example file** and a `.gitignore` for your repo?
-
